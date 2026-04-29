@@ -1,14 +1,16 @@
 # Hi 👋
 
-I'm Kesyia, a Data enthusiast with a Mechanical Engineering background.
+I'm Kesyia, a Data enthusiast with a Mechanical Engineering background. 
 I've always been curious about how things work and that naturally 
 extends to data. From a small university project using sensor input 
 to stabilize an inverted pendulum, to entering environmental health 
 data at work and seeing firsthand how messy and far from ideal 
 real-world data can be. That curiosity pushed me to go deeper into 
-data science, where I get to combine that same curiosity with the 
-tools to actually explore and make sense of it — and I'm still 
-learning every day.
+data science. I'm particularly drawn to how data can drive real 
+improvements in quality, efficiency, and safety whether in 
+industrial and operational systems or beyond. Either way, I get to 
+combine that same curiosity with the tools to actually explore and 
+make sense of it and I'm still learning every day.
 
 ---
 
