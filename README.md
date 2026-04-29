@@ -1,7 +1,7 @@
-# Hi, I'm Kesyia 👋
+# Hi 👋
 
-Data enthusiast with a Mechanical Engineering background.
-I've always been curious about how things work — and that naturally 
+I'm Kesyia, a Data enthusiast with a Mechanical Engineering background.
+I've always been curious about how things work and that naturally 
 extends to data. From a small university project using sensor input 
 to stabilize an inverted pendulum, to entering environmental health 
 data at work and seeing firsthand how messy and far from ideal 
@@ -24,3 +24,8 @@ learning every day.
 ## 🔗 Connect with Me
 
 - Email: kesyiapatty@gmail.com
+
+---
+
+## Education
+**Data Science Bootcamp** — Hacktiv8
