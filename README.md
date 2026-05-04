@@ -26,6 +26,7 @@ make sense of it and I'm still learning every day.
 ## 🔗 Connect with Me
 
 - Email: kesyiapatty@gmail.com
+- linkedin : www.linkedin.com/in/kesyia-patty-578534406 
 
 ---
 
